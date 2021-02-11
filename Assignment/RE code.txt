@@ -1,0 +1,13 @@
+import re as R_e
+
+str = input("Enter your string: ")
+
+if str.startswith('a'or'b'):
+    r = R_e.search('(^a|^b)(^a|b^|0^|1^|_^|.)@(a^|b^|0^|1^|.)$', str) 
+    if r:
+        print(r.groups())
+        print("Accept")
+    else:
+        print("Reject")
+else:
+    print("Reject term. Term must start with A and B")

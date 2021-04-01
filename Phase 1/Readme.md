@@ -6,7 +6,8 @@
   
 **61819** | **Nausherwan Khan Adil**
   
-  The language that we have selected for compiler is “Mini Java”.
+ # Language:#
+ The language that we have selected for compiler is “Mini Java”.
 
 # Something about Mini Java:
 Mini-Java is a subset of Java which has been simplified (and modified). A MiniJava programs purpose is determined by its meaning as a Java program. Every MiniJava program is a fully functional Java program that follows Java semantics. It supports classes and limited inheritance, simple data types and a few structured control constructors. The MiniJava software is a single file that does not have a package declaration (and therefore does not correspond to the default package) or imports. It is made up of one or more Java classes. The classes are simple and easy there are no interface classes, subclasses, or nested classes in it.
@@ -14,21 +15,19 @@ In MiniJava fields and methods are the members of a class. Public or private acc
 
 # Mini Java Constructor:
 
-# Simple Program on Mini Java:#
+# Simple Program on Mini Java:
  
-class SimpleProgram 
- 
-{
-
-public static void main(String[] a)   
- 
+     class SimpleProgram 
+      {
+  
+       public static void main(String[] a)   
        {
        
        System.out.println(“hello this is my test program for project phse 1");
+             
+       }  
        
-       }
-       
- }
+     }
    
 # if/else loop in Mini Java:
      class Factorial_ifelse 

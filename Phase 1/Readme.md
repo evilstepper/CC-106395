@@ -2,9 +2,9 @@
 
 # PROJECT MEMBERS:
 
-  61827	  Muhammad Mashood
+**61827** | **Muhammad Mashood Ahmed**
   
-  61819	  Nausherwan Khan Adil
+**61819** | **Nausherwan Khan Adil**
   
   The language that we have selected for compiler is “Mini Java”.
 
@@ -14,11 +14,11 @@ In MiniJava fields and methods are the members of a class. Public or private acc
 
 # Mini Java Constructor:
 
-# Simple Program on Mini Java:
+# Simple Program on Mini Java:#
  
- class SimpleProgram 
+class SimpleProgram 
  
- {
+{
 
 public static void main(String[] a)   
  
@@ -28,7 +28,7 @@ public static void main(String[] a)
        
        }
        
-   }
+ }
    
 # if/else loop in Mini Java:
      class Factorial_ifelse 

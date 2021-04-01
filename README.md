@@ -1,6 +1,6 @@
-#CC 106395 Spring 2021: Course Repository##
+# CC 106395 Spring 2021:Course Repository ##
 
-###PROJECT MEMBERS###
+## PROJECT MEMBERS ##
 
 **61827** | **Muhammad Mashood Ahmed** <!--this is the group leader in bold-->
 <!--61827 | Muhammad Mashood Ahmed-->

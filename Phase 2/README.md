@@ -4,9 +4,9 @@
 
 **61827** | **Muhammad Mashood Ahmed**
   
-**61819** | **Nausherwan Khan Adil*
+**61819** | **Nausherwan Khan Adil**
 
-## **Rules of MiniJava for Lexical Analyzer**
+## Rules of MiniJava for Lexical Analyzer
 
     %{
 
@@ -84,7 +84,7 @@ do|while|switch {printf("\n %d Loop Statements:%s",Keyword,yytext);}
 
 %%
 
-# PROGRAM :
+# PROGRAM:
 
     int main()
 

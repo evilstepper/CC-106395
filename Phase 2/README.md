@@ -12,29 +12,30 @@
 
     #include<stdio.h>
 
-    #define OP 0
+    #define OP 1
 
-    #define ID 1
+    #define ID 2
 
-    #define Number 2
+    #define Number 3
+    
+    #define String 4
+    
+    #define Punctuation 5
 
-    #define Keyword 3
+    #define Keyword 6
 
-    #define Spaces 4
+    #define Spaces 7
 
-    #define Bracket 5
+    #define Bracket 8
 
-    #define Comment 6
+    #define Comment 9
+    
+    #define Print 10
+    
+    #define Program 11
 
-    #define Punctuation 7
+    #define Specifier 12
 
-    #define Specifier 8
-
-    #define String 9
-
-    #define Program 10
-
-    #define Print 11
 
     %}
 

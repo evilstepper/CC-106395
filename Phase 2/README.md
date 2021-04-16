@@ -45,7 +45,7 @@
 
 1.	main {printf("\n %d Classes name:%s",Program,yytext);}
 
-2."class" {printf("\n %d Starting of the program:%s",Program,yytext);}
+ 2."class" {printf("\n %d Starting of the program:%s",Program,yytext);}
 
 3.	"+"|"-"|"*"|"/" {printf("\n %d The  Operators are:%s",OP,yytext);}
 

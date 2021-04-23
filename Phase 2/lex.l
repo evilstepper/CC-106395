@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include "code.h"
-#include "yyyy.tab.h"
+#include "y.tab.h"
 
 int yylineno;
 %}

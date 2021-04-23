@@ -26,3 +26,6 @@ Github is complicated platform and is rearly used in our university and ask by o
 
 ## Problem 4: YACC Compilation
 When our lex and yacc files were combined, it meant (.l & .y extension file). There were many errors in its compilations, such as (undefined reference or function in y file, redeifintions, declaration and so on). We were completely unaware of them because we had never worked in such an area. Since it was our first time designing a parser, most of the errors were unfamiliar to us, so we did some research, watched some videos, books and documentation.Since it was our first time designing a parser, most of the errors were unfamiliar to us, so we conducted analysis, sought guidance from videos and books, and eventually fixed them after many hours of work.
+
+# Demo Video Of Project
+

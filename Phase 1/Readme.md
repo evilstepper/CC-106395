@@ -3,8 +3,7 @@
 # PROJECT MEMBERS:
 
 **61827** | **Muhammad Mashood Ahmed**
-  
-**61819** | **Nausherwan Khan Adil**
+*61819* | *Nausherwan Khan Adil*
   
  # Language:
  The language that we have selected for compiler is “Mini Java”.

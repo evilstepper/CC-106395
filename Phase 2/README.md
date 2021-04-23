@@ -4,7 +4,7 @@
 
 **61827** | **Muhammad Mashood Ahmed**
   
-*61819* | **Nausherwan Khan Adil**
+*61819* | *Nausherwan Khan Adil*
 
 ## Rules for Lexical Analyzer:
 
@@ -108,30 +108,46 @@
                               }
 
 "&&"  { return And; }
+
 "."   { return '.'; }
+
 "="   { return '='; }
+
 "+"   { return '+'; }
+
 "-"   { return '-'; }
+
 "*"   { return '*'; }
+
 "<"   { return '<'; }
+
 "!"   { return '!'; }
 
 "{"   { return Lbrace; }
+
 "}"   { yylval.code = new_code(yytext, 0); yylval.code->line = yylineno; return Rbrace; }
+
 "["   { return Laccess; }
+
 "]"   { yylval.code = new_code(yytext, 0); yylval.code->line = yylineno; return Raccess; }
+
 "("   { yylval.code = new_code(yytext, 0); yylval.code->line = yylineno; return LBracket; }
+
 ")"   { yylval.code = new_code(yytext, 0); yylval.code->line = yylineno; return RBracket; }
+
 ";"   { yylval.code = new_code(yytext, 0); yylval.code->line = yylineno; return Semicolon; }
+
 ","   { yylval.code = new_code(yytext, 0); yylval.code->line = yylineno; return Comma; }
 
 "//".*"\n"         { yylineno++; }
+
 "/*"(.|"\n")*"*\\" { yylineno++; }
+
 " "|"\t"|"\r"      { /*do nothing*/ }
+
 "\n"               { yylineno++; }
+
 .                  { fprintf(stderr, "Not Recognized(word)"); }
-
-
 
 
 

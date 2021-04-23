@@ -23,3 +23,6 @@ So, prior to this project, neither of us knew anything about Java. Our domain re
 
 ## Problem 3: Issue With Github
 Github is complicated platform and is rearly used in our university and ask by our teachers. We have to learn about the Github from Youtube and have to practice about it before doing the official work.
+
+## Problem 4: YACC Compilation
+When our lex and yacc files were combined, it meant (.l & .y extension file). There were many errors in its compilations, such as (undefined reference or function in y file, redeifintions, declaration and so on). We were completely unaware of them because we had never worked in such an area. Since it was our first time designing a parser, most of the errors were unfamiliar to us, so we did some research, watched some videos, books and documentation.

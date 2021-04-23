@@ -20,3 +20,6 @@ When we were putting together our lexical analyzer, we ran into a lot of problem
 
 ## Problem 2: NOT FROM JAVA BACKGROUND
 So, prior to this project, neither of us knew anything about Java. Our domain region is react native (javaScript), but we figured why not give it a shot and try something new? As a result, we chose MiniJava, which is a smaller part of the Java language. We had a lot of problems at first because we didn't understand how it worked, how to declare variables and methods. However, once we studied and gained a basic understanding of it, we had no problems.
+
+## Problem 3: Issue With Github
+Github is complicated platform and is rearly used in our university and ask by our teachers. We have to learn about the Github from Youtube and have to practice about it before doing the official work.
